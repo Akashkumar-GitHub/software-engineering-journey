@@ -77,3 +77,7 @@ Strengthening JavaScript fundamentals and learning professional Git and GitHub w
 ---
 
 *Learning consistently, one step at a time.*
+
+## Git Branch Practice
+
+Learning how to create branches, commit changes, and merge features.
