@@ -81,3 +81,9 @@ Strengthening JavaScript fundamentals and learning professional Git and GitHub w
 ## Git Branch Practice
 
 Learning how to create branches, commit changes, and merge features.
+
+## Pull Request Practice
+
+- Learning how to create pull requests.
+- Understanding code review.
+- Practising collaborative development workflows.
